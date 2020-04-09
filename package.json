@@ -39,9 +39,6 @@
     "muaz",
     "muaz-khan"
   ],
-  "dependencies": {
-    "socket.io": "latest"
-  },
   "analyze": false,
   "license": "MIT",
   "readmeFilename": "README.md",
